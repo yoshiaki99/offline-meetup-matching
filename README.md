@@ -4,6 +4,13 @@ Discordコミュニティのオフ会参加者に、本人が提供したプロ�
 
 希望者20〜30人程度の実験から始める想定で、Discordログイン、本人の同意、運営による確認、紹介への希望回答、当日の案内と振り返りに対応しています。
 
+## 利用する
+
+- [参加者用サイト](https://offline-meetup-matching.yoshiaki99.chatgpt.site)
+- [運営画面](https://offline-meetup-matching.yoshiaki99.chatgpt.site/admin)
+
+開催情報は運営画面で設定してから募集を開始してください。
+
 ## ドキュメント
 
 - [実験要件定義](./オフ会AI紹介_実験要件定義.md)
