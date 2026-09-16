@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.env.*
+
+# Local participant records and AI inputs/outputs
+private-data/
